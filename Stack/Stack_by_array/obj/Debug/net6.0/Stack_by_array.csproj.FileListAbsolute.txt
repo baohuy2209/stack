@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\Stack_by_array.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\Stack_by_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\Stack_by_array.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\Stack_by_array.AssemblyInfo.cs
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\Stack_by_array.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Stack\Stack_by_array\bin\Debug\net6.0\Stack_by_array.exe
+C:\Users\Lenovo\Stack\Stack_by_array\bin\Debug\net6.0\Stack_by_array.deps.json
+C:\Users\Lenovo\Stack\Stack_by_array\bin\Debug\net6.0\Stack_by_array.runtimeconfig.json
+C:\Users\Lenovo\Stack\Stack_by_array\bin\Debug\net6.0\Stack_by_array.dll
+C:\Users\Lenovo\Stack\Stack_by_array\bin\Debug\net6.0\Stack_by_array.pdb
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\Stack_by_array.dll
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\refint\Stack_by_array.dll
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\Stack_by_array.pdb
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\Stack_by_array.genruntimeconfig.cache
+C:\Users\Lenovo\Stack\Stack_by_array\obj\Debug\net6.0\ref\Stack_by_array.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\Stack_by_linked_list.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\Stack_by_linked_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\Stack_by_linked_list.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\Stack_by_linked_list.AssemblyInfo.cs
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\Stack_by_linked_list.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Stack\Stack_by_linked_list\bin\Debug\net6.0\Stack_by_linked_list.exe
+C:\Users\Lenovo\Stack\Stack_by_linked_list\bin\Debug\net6.0\Stack_by_linked_list.deps.json
+C:\Users\Lenovo\Stack\Stack_by_linked_list\bin\Debug\net6.0\Stack_by_linked_list.runtimeconfig.json
+C:\Users\Lenovo\Stack\Stack_by_linked_list\bin\Debug\net6.0\Stack_by_linked_list.dll
+C:\Users\Lenovo\Stack\Stack_by_linked_list\bin\Debug\net6.0\Stack_by_linked_list.pdb
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\Stack_by_linked_list.dll
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\refint\Stack_by_linked_list.dll
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\Stack_by_linked_list.pdb
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\Stack_by_linked_list.genruntimeconfig.cache
+C:\Users\Lenovo\Stack\Stack_by_linked_list\obj\Debug\net6.0\ref\Stack_by_linked_list.dll
